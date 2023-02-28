@@ -2,8 +2,10 @@
 
 
 nome=input('seu nome: ')
+idd= input('sua idade: ')
 
 print(f'Bem vindo(a) {nome}!')
+print(f'idade: {idd}')
 
 
 #nova linha de teste comentario
