@@ -10,3 +10,4 @@ print(f'Bem vindo(a) {nome}!')
 
 '''esse é um arquivo que permite algo'''
 'criado por williams sousa'
+'new line'
