@@ -13,3 +13,6 @@ print(f'idade: {idd}')
 '''esse é um arquivo que permite algo'''
 'criado por williams sousa'
 'new line'
+
+##ater 005
+
