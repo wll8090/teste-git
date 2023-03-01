@@ -37,6 +37,10 @@ from flask import Flask
 ```bash
 pip install flask
 ```
+```python3
+print('ola mundo')
+```
+
 
 ![image][img_git]
 
