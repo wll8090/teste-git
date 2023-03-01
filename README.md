@@ -20,7 +20,4 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 
 - receita 01
 - receita 02
-- reveita 03
---
-----
------
+- reveita 03 [aqui][perfil]
