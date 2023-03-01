@@ -9,7 +9,7 @@ ola
 [perfil]: https://github.com/wll8090/
 
 tstes00|teste01|teste03
--|:-:|:-:|:-:
+-|:-:|:-:
 aaa|&bbb|&ccc
 
 
