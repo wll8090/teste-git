@@ -8,12 +8,12 @@ ola
 
 [perfil]: https://github.com/wll8090/
 
-tstes00|teste01|teste03\*
+tstes00|teste01|teste03
 -|:-:|:-:|:-:
-aaa|bbb|ccc
+aaa|&bbb|&ccc
 
 
-Feature|Windows|macOS|Linux\*
+Feature|Windows|macOS|Linux
 -|:-:|:-:|:-:
 Installer/uninstaller|&#10003;|&#10003;|&#10003;
 Secure platform credential storage [(see more)][gcm-credstores]|&#10003;|&#10003;|&#10003;
