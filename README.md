@@ -26,6 +26,8 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 &#9812;
 
 :warning:  atenção
+:start: strela
+:bol: bola
 
 ```shell
 #!python3 
