@@ -27,7 +27,7 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 
 :warning:  atenção
 
-'''shell
+```shell
 #!python3 
 from flask import Flask
-'''
+```
