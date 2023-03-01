@@ -10,5 +10,5 @@ ola
 
 tstes00|teste01|teste03
 :-:|:-:|:-:
-aaaaaaaaaaaaaaaaaaaaa|&#10003;|ccc
+aaaaaaaaaaaaaaaaaaaaa|bbbbb|&#10001; &#10002; &#10003; &#10004;
 DD|EE|FF
