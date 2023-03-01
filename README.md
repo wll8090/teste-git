@@ -27,9 +27,13 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 
 :warning:  atenção
 :star: strela
-:ball: bola
+
 
 ```shell
 #!python3 
 from flask import Flask
+```
+
+```bash
+pip install flask
 ```
