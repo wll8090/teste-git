@@ -27,7 +27,7 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 
 :warning:  atenção
 :star: strela
-:bol: bola
+:ball: bola
 
 ```shell
 #!python3 
