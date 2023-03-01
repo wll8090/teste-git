@@ -38,7 +38,7 @@ from flask import Flask
 pip install flask
 ```
 
-[image][img_git]
+![image][img_git]
 
 
-![img_git]: https://blog.geekhunter.com.br/wp-content/uploads/2020/08/comandos-git.png
+[img_git]: https://blog.geekhunter.com.br/wp-content/uploads/2020/08/comandos-git.png
