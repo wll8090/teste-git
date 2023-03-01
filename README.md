@@ -14,3 +14,13 @@ tstes00|teste01|teste03
 :-:|:-:|:-:
 aaaaaaaaaaaaaaaaaaaaa|bbbbb|&#10001; &#10002; &#10003; &#10004;
 DD|EE| &#10003; &#10004; &#10005; &#10006;
+
+
+---
+
+- receita 01
+- receita 02
+- reveita 03
+--
+----
+-----
