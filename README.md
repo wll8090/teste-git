@@ -26,3 +26,8 @@ DD|EE| &#10003; &#10004; &#10005; &#10006;
 &#9812;
 
 :warning:  atenção
+
+'''shell
+#!python3 
+from flask import Flask
+'''
