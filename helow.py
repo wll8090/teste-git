@@ -15,13 +15,4 @@ print(f'idade: {idd}')
 
 '''esse é um arquivo que permite algo'''
 'criado por williams sousa'
-'new line'
-
-##alter 005
-##alter 006
-##alter 07
-##alter 08
-##alter 09
-# alter 10
-## alter 11
 
