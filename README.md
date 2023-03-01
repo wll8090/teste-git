@@ -10,5 +10,5 @@ ola
 
 tstes00|teste01|teste03
 :-:|:-:|:-:
-aaa|bb|ccc
+:aaa|bb|ccc
 DD|EE|FF
