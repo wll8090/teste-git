@@ -16,7 +16,7 @@ aaa|&bbb|&ccc
 Feature|Windows|macOS|Linux
 -|:-:|:-:|:-:
 Installer/uninstaller|&#10003;|&#10003;|&#10003;
-Secure platform credential storage [(see more)][gcm-credstores]|&#10003;|&#10003;|&#10003;
+Secure platform credential storage [(see more)][gcm-credstores]|&#10003;|&#10003;|aaaa
 Multi-factor authentication support for Azure DevOps|&#10003;|&#10003;|&#10003;
 Two-factor authentication support for GitHub|&#10003;|&#10003;|&#10003;
 Two-factor authentication support for Bitbucket|&#10003;|&#10003;|&#10003;
