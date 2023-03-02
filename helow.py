@@ -11,14 +11,6 @@ print(f'Bem vindo(a) {nome}!')
 print(f'idade: {idd}')
 
 
-#nova linha de teste comentario
-
-'''esse é um arquivo que permite algo'''
-'criado por williams sousa'
-
-'ater via ssh key'
-
-
 'sergio williams'
 
 'ferreira de sousa'
