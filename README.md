@@ -1,4 +1,4 @@
-![Bange em Desenvolvimento]
+![Badge em Desenvolvimento]
 # &#10003; &#10112; teste no git
 <h1> ola</ola>  <hr>
                     
